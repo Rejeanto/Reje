@@ -1,0 +1,18 @@
+Soal 1
+Hitunglah kecepatan rata-rata
+	s = 30 km
+	t = 2 jam
+
+algoritma:	
+	Step 1 Mendeklarasikan Jarak(s), Waktu (t) dan Kecepatan (v)
+	Step 2 Masukan s = 30, t = 2
+	Step 3 Menghitung Kecepatan = s : t
+	Step 4 Menampilkan Hasil
+
+Pseudocode:
+	deklarasi
+	var s, t, v
+	s ← 30
+	t ← 2
+	v = s/t
+	write(v)
